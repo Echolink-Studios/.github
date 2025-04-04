@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Atlas Origins!
+We are EchoLink Studios!
 <!--
 
 **Here are some ideas to get you started:**
