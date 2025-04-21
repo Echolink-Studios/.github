@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are EchoLink Studios!
+We are Echolink Studios!
 <!--
 
 **Here are some ideas to get you started:**
